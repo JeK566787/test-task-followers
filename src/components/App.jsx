@@ -1,16 +1,18 @@
-export const App = () => {
-  return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
-  );
-};
+import { Component } from 'react';
+
+import { Card } from './Card/Card';
+
+export class App extends Component {
+  state = {
+    isBtnClick: false,
+  };
+  onBtnClick = () => {
+    this.setState(prevState => {
+      return { isBtnClick: !prevState.isBtnClick };
+    });
+  };
+  render() {
+    const { isBtnClick } = this.state;
+    return <Card onBtnClick={this.onBtnClick} isClicked={isBtnClick} />;
+  }
+}
