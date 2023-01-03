@@ -31,4 +31,8 @@ mobile, tablet, desktop. GoIT academy prepared technical tasks.
 - [x] used Scrum methodology;
 - [x] used Firebase for a user authorization and information collection.
 
----
+## Links
+
+[Figma](<https://www.figma.com/file/IOrJziFAjQD8Xb5V1fx0ib/Filmoteka-(Copy)-(Copy)?node-id=0%3A1&t=qF5yvQdFG25xUpyC-0>)
+
+[Task](https://docs.google.com/spreadsheets/d/1Z26Jc5WlgcoD8r_Xci6R5vcCHtKFfESoJFhZQ2eh77E/edit#gid=0)
