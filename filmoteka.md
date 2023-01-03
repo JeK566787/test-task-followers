@@ -3,10 +3,10 @@
 Hi! 
 We are students of group named ** "Quintet" ** of GоIT academy
 We graduated ** JavaScript ** course and consolidated our received knowledge in practice developing this graduation project. 
-The project created by: …..
-Designers prepared for us 3 Versions of ** team project layouts ** : mobile, tablet, desktop.
-GoIT academy prepared technical tasks.
-** Tasks :
+# The project created by: …..
+# Designers prepared for us 3 Versions of ** team project layouts ** : mobile, tablet, desktop.
+# GoIT academy prepared technical tasks.
+# ** Tasks :
 -	develop a website for searching a popular film;
 -	give users an opportunity to search films by genres;
 -	organize user's library for collecting watched films and ones to watch later;
