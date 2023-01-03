@@ -23,7 +23,7 @@ tablet, desktop. GoIT academy prepared technical tasks.
 - develop pagination;
 - develop localization for language change: English/Ukrainian.
 
-During the project we:
+**During the project we:**
 
 - [x] consolidated the knowledge of HTML and CSS/SASS;
 - [x] consolidated the knowledge of JavaScript;
