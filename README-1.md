@@ -1,7 +1,5 @@
 # Film library project
 
----
-
 Hi! We are students of the group named **'Quintet'** of GоIT academy. We
 graduated from **JavaScript** course and consolidated our received knowledge in
 practice developing this graduation project. The project created by Yuliia
