@@ -5,7 +5,7 @@
 Hi! We are students of the group named **'Quintet'** of GоIT academy. We
 graduated from **JavaScript** course and consolidated our received knowledge in
 practice developing this graduation project. The project created by... .
-Designers prepared for us 3 Versions of **team project layouts**- mobile,
+Designers prepared for us 3 Versions of **team project layouts** - mobile,
 tablet, desktop. GoIT academy prepared technical tasks.
 
 **Tasks:**
