@@ -2,11 +2,11 @@
 
 ---
 
-Hi! We are students of group named **'Quintet'** of GоIT academy We graduated
-**JavaScript** course and consolidated our received knowledge in practice
-developing this graduation project. The project created by... . Designers
-prepared for us 3 Versions of **team project layouts** mobile, tablet, desktop.
-GoIT academy prepared technical tasks.
+Hi! We are students of the group named **'Quintet'** of GоIT academy. We
+graduated from **JavaScript** course and consolidated our received knowledge in
+practice developing this graduation project. The project created by... .
+Designers prepared for us 3 Versions of **team project layouts**- mobile,
+tablet, desktop. GoIT academy prepared technical tasks.
 
 **Tasks:**
 
@@ -25,8 +25,8 @@ GoIT academy prepared technical tasks.
 
 During the project we:
 
-- [x] consolidated knowledge of HTML and CSS/SASS;
-- [x] consolidated knowledge of JavaScript;
+- [x] consolidated the knowledge of HTML and CSS/SASS;
+- [x] consolidated the knowledge of JavaScript;
 - [x] worked with Parcel;
 - [x] teamwork practice with Git;
 - [x] used Scrum methodology;
